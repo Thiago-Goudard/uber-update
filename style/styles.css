@@ -1,0 +1,61 @@
+#celular{
+    margin: 100px 700px;
+    padding: 15px;
+    padding-top: 40px;
+    background-color: #161616;
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgb(48, 46, 46);
+    border-radius: 8px;
+    display: flex;
+    flex-direction: column;
+}
+
+body{
+    background-color: rgb(159, 174, 187);
+    align-items: center;
+}
+
+p{
+    color: white;
+    opacity: 25%;
+    margin: 0px;
+}
+
+h1{
+    color: white;
+}
+
+h3{
+    color: white;
+    margin: 0px;
+}
+
+.flex{
+    display: flex;
+}
+
+.imgm{
+    width: 177px;
+}
+
+.box{
+    padding: 63px;
+    background-color: #252626;
+    border: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.boxcumprida{
+    padding: 50px;
+    background-color: #252626;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.boxblack{
+    padding: 25px;
+    background-color: #161616;
+    margin: 10px;
+}
