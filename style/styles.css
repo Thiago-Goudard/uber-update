@@ -12,7 +12,7 @@
 }
 
 body{
-    background-color: rgb(159, 174, 187);
+    background-color: #161616;
     align-items: center;
 }
 
@@ -29,6 +29,7 @@ h1{
 h3{
     color: white;
     margin: 0px;
+    border: 0px;
 }
 
 .flex{
@@ -40,15 +41,37 @@ h3{
 }
 
 .box{
-    padding: 63px;
+    padding: 40px;
     background-color: #252626;
     border: 10px;
     margin: 10px;
     border-radius: 10px;
+    align-items: center;
+    text-align: center;
+}
+
+.box-carteira{
+    padding: 30px;
+    background-color: #252626;
+    border: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    align-items: center;
+    text-align: center;
+}
+
+.box-atividade{
+    padding: 22px;
+    background-color: #252626;
+    border: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    align-items: center;
+    text-align: center;
 }
 
 .boxcumprida{
-    padding: 50px;
+    padding: 37px;
     background-color: #252626;
     margin: 10px;
     border-radius: 10px;
@@ -58,4 +81,9 @@ h3{
     padding: 25px;
     background-color: #161616;
     margin: 10px;
+}
+
+#novo{
+    color: rgb(238, 24, 67);
+    
 }
